@@ -1,5 +1,5 @@
 var score = 80;
-var copy = score;
+var copy = score; // * 여기서 copy는 80으로 평가된다
 
 console.log(score); // 80
 console.log(copy);  // 80
